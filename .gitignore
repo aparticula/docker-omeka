@@ -1,0 +1,5 @@
+omeka-src/
+plugins/*
+!plugins/.gitkeep
+themes/*
+!themes/.gitkeep
